@@ -3,9 +3,7 @@ An CyberAwareness initiative Started By ```Sumit Oneness``` & ```Piyush Kaushik`
 ## Join Our Community. 
 
 ![Custom badge](https://img.shields.io/badge/NHC-N00B%20HACK3RS%20COMMUNITY-brightgreen?style=plastic&logo=appveyor)
-
 ![Custom badge](https://img.shields.io/badge/NHC-Join%20Us-cyan?style=plastic&logo=appveyor)
-
 ![Custom badge ](https://img.shields.io/badge/~Hack3r__Oneness-Instagram-02f5ff?style=plastic&logo=appveyor)
 
 ## Donate Us if ```Appreciate``` our work :)  
