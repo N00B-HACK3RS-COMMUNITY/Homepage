@@ -12,3 +12,7 @@ An CyberAwareness initiative Started By ```Sumit Oneness``` & ```Piyush Kaushik`
 ![Custom badge](https://img.shields.io/badge/NHC-N00B%20HACK3RS%20COMMUNITY-brightgreen?style=plastic&logo=appveyor)
 ![Custom badge](https://img.shields.io/badge/NHC-Join%20Us-cyan?style=plastic&logo=appveyor)
 ![Custom badge ](https://img.shields.io/badge/~Hack3r__Oneness-Instagram-02f5ff?style=plastic&logo=appveyor)
+[![LinkedIn][linkedIn-shield]][linkedin-url]
+
+[linkedin-url]: https://www.linkedin.com/in/sumit-o-a30926158
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
